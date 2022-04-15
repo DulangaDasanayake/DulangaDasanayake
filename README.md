@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techyfixer
+- 👋 Hi, I’m @iamdulanga
 - 👀 I’m interested in learn to coding
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on members
