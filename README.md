@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software deve
 - 🔭 I’m currently working on My Final Project In Capmus.
 - 🌱 I’m currently learning Mern Stack.
 - 💬 Ask me about anything related to React, Express, Node.js, HTML or CSS.
-- 📫 How to reach me: du1an9a@gmmail.com
+- 📫 How to reach me: du1an9a@gmail.com
 - 😄 Pronouns: He/Him
 
 
