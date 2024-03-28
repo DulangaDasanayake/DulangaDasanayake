@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DulangaDasanayake/DulangaDasanayake/master/assets/snake.svg" width="800px" alt="Snake Eating GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/DulangaDasanayake/DulangaDasanayake/master/snake.svg" width="800px" alt="Snake Eating GitHub Contribution Graph" />
 </div>
 
 # Dulanga Dasanayake
