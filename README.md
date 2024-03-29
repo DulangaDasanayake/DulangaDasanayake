@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/DulangaDasanayake?style=flat&color=yellow" alt="Total Stars" />
 </div>
 
 ---
