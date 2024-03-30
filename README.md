@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
-    <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
-    <p align="right"><img src="https://github.com/DulangaDasanayake/DulangaDasanayake/github-icon-16.png" width="WIDTH_IN_PIXELS"></p>
-</div>
+<p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"></p>
 
 <h1 align="center">Hi 👋, I'm Dulanga Dasanayake</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from Kandy/Sri Lanka. Here you'll find some of my projects and contributions.</h3>
