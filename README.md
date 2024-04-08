@@ -1,4 +1,5 @@
-<p align="center"><img src="https://octodex.github.com/images/spidertocat.png" width="200"></p>
+<p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"></p>
+
 
 <h1 align="center">Hi, I'm Dulanga Dasanayake <img width="23" src="https://img.icons8.com/color/48/verified-account--v1.png" alt="verified-badge--v1"/></h1>
 
