@@ -1,9 +1,5 @@
-<p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"></p>
-
-
-<h1 align="center">Hi, I'm Dulanga Dasanayake <img width="23" src="https://img.icons8.com/color/48/verified-account--v1.png" alt="verified-badge--v1"/></h1>
-
-
+<p align="center"><img src="https://octodex.github.com/images/filmtocat.png" width="250"></p>
+<h1 align="center">Hi, I'm Dulanga Dasanayake</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from Kandy/Sri Lanka. Here you'll find some of my projects and contributions.</h3>
 
 <div align="center">
