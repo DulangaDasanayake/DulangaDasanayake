@@ -1,4 +1,4 @@
-<p align="center"><img src="https://octodex.github.com/images/filmtocat.png" width="180"></p>
+<p align="center"><img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" width="370"></p>
 <h1 align="center">Hi, I'm Dulanga Dasanayake</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from Kandy/Sri Lanka. Here you'll find some of my projects and contributions.</h3>
 
