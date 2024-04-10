@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" width="370"></p>
+<p align="center"><img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" width="200"></p>
 <h1 align="center">Bonjour, I am Dulanga</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from Kandy/Sri Lanka. Here you'll find some of my projects and contributions.</h3>
 
