@@ -12,11 +12,10 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on My Final Project In Capmus.
-- 🌱 I’m currently learning Mern Stack.
-- 💬 Ask me about anything related to Mern Stack
-- 📫 How to reach me: du1an9a@gmail.com
-- 😄 Pronouns: He/Him
+- I’m currently working on a MERN Project
+- Ask me about anything related to Mern Stack
+- How to reach me: send a email
+- Pronouns: He/Him
 
 </td>
 <td width="50%" align="center">
