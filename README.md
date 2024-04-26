@@ -1,7 +1,9 @@
 <div align="center">
   <p><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="180"></p>
   
-  <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=green&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/DulangaDasanayake?style=flat&color=9kt5u6" alt="Total Stars" />
+
   
   <h4>Hi, I'm Dulanga Dasanayake</h4>
   <h4>Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from Kandy, Sri Lanka. Here you'll find some of my projects and contributions.</h4>
