@@ -1,4 +1,4 @@
-<p align="center"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100"></p>
+<p align="center"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250"></p>
 <h1 align="center">Hi, I'm Dulanga Dasanayake</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from Kandy/Sri Lanka. Here you'll find some of my projects and contributions.</h3>
 
@@ -50,4 +50,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Tools</b>
+- Languages: ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- Frameworks: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+- Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- Tools: ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
   
