@@ -1,5 +1,6 @@
 <p align="center"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100"></p>
 <h1 align="center">Hi, I'm Dulanga Dasanayake</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from Kandy/Sri Lanka. Here you'll find some of my projects and contributions.</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
