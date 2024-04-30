@@ -9,16 +9,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DulangaDasanayake&theme=algolia&show_icons=true&count_private=true" />
-    </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DulangaDasanayake&theme=algolia&hide_border=false&langs_count=10&layout=compact"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/Leonardolira01" target="_blank">
+    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=DulangaDasanayake&theme=algolia&show_icons=true"/>&nbsp&nbsp
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulangaDasanayake&layout=compact&langs_count=6&theme=algolia"/>
+  </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
