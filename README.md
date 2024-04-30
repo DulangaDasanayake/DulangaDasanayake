@@ -4,20 +4,17 @@
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
   <h4>Hi, I'm Dulanga Dasanayake</h4>
-  <h4>Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from Kandy, Sri Lanka. Here you'll find some of my projects and contributions.</h4>
+  <h4>Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from LK. Here you'll find some of my projects and contributions.</h4>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 <div align="center">
     <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=DulangaDasanayake&theme=algolia&show_icons=true"/>&nbsp&nbsp
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulangaDasanayake&layout=compact&langs_count=6&theme=algolia"/>
   </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Tools</b>
 
 - Languages: ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - Operating Systems: ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Arch](https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Kali](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
