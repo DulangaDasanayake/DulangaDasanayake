@@ -9,8 +9,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 <div align="center">
-  <a href="https://github.com/Leonardolira01" target="_blank">
     <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=DulangaDasanayake&theme=algolia&show_icons=true"/>&nbsp&nbsp
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulangaDasanayake&layout=compact&langs_count=6&theme=algolia"/>
   </div>
