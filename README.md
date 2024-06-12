@@ -10,8 +10,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=DulangaDasanayake&theme=algolia&show_icons=true"/>&nbsp&nbsp
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulangaDasanayake&layout=compact&langs_count=6&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DulangaDasanayake&theme=algolia&show_icons=true"/>&nbsp&nbsp
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulangaDasanayake&layout=compact&langs_count=4&theme=algolia"/>
   </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
