@@ -3,7 +3,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
-  ## [Bonjour, I'm Dulanga Dasanayake](https://github.com/DulangaDasanayake)
+  ## [Hello, I'm Dulanga Dasanayake](https://github.com/DulangaDasanayake)
   <h4>Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from LK. Here you'll find some of my projects and contributions.</h4>
 </div>
 
