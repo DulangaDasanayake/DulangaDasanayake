@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="180"></p>
+  <p><img src="https://octodex.github.com/images/manufacturetocat.png" width="180"></p>
   
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
