@@ -7,13 +7,15 @@
   <h4>Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from LK. Here you'll find some of my projects and contributions.</h4>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DulangaDasanayake&theme=algolia&show_icons=true"/>&nbsp&nbsp
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulangaDasanayake&layout=compact&langs_count=4&theme=algolia"/>
-  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=geirolz&count_private=true&show_icons=true&theme=ambient_gradient"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=geirolz&count_private=true&show_icons=true&theme=ambient_gradient" />
+</picture>
+</div>
 
 <!--
 | Category            | Skills                                                                                                                     |
