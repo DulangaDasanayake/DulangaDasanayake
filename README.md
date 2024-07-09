@@ -10,10 +10,10 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=geirolz&count_private=true&show_icons=true&theme=ambient_gradient"
+    srcset="https://github-readme-stats.vercel.app/api?username=dulawiz&count_private=true&show_icons=true&theme=ambient_gradient"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=geirolz&count_private=true&show_icons=true&theme=ambient_gradient" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulawiz&count_private=true&show_icons=true&theme=ambient_gradient" />
 </picture>
 </div>
 
