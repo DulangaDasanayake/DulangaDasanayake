@@ -6,7 +6,7 @@
   ## [Hello, I'm Dulanga Dasanayake](https://github.com/DulangaDasanayake)
   <h4>Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from LK. Here you'll find some of my projects and contributions.</h4>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
 <picture>
   <source
@@ -15,6 +15,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=dulawiz&count_private=true&show_icons=true&theme=blueberry" />
 </picture>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br><br>
 
 | Category            | Skills                                                                                                                     |
