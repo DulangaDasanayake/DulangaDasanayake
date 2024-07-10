@@ -4,9 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
   ## [Hello, I'm Dulanga Dasanayake](https://github.com/DulangaDasanayake)
-  <h4>Welcome to my GitHub profile! I'm Dulanga Dasanayake, a passionate software developer and tech enthusiast from LK. Here you'll find some of my projects and contributions.</h4>
+  <p>👋 Hi there! I'm Dulanga, a passionate software developer and tech enthusiast. With a strong background in IT and a love for coding, I enjoy creating innovative solutions and exploring new technologies. My repositories showcase projects ranging from web development to system automation, reflecting my commitment to continuous learning and professional growth in the IT industry. I'm always open to collaboration and eager to contribute to exciting projects. Let's build something amazing together!</p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <div align="center">
 <picture>
   <source
@@ -27,3 +28,4 @@
 | **API Testing**     | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
 
+</div>
