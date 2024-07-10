@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img src="https://octodex.github.com/images/skatetocat.png" width="200"></p>
+  <p><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"></p>
   
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
@@ -10,14 +10,13 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dulawiz&count_private=true&show_icons=true&theme=ambient_gradient"
+    srcset="https://github-readme-stats.vercel.app/api?username=dulawiz&count_private=true&show_icons=true&theme=blueberry"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=dulawiz&count_private=true&show_icons=true&theme=ambient_gradient" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulawiz&count_private=true&show_icons=true&theme=blueberry" />
 </picture>
-</div>
+<br><br>
 
-<!--
 | Category            | Skills                                                                                                                     |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------|
 | **Languages**       | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
@@ -26,7 +25,4 @@
 | **Databases**       | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **API Testing**     | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
-| **DevOps**          | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
-| **Cloud Services**  | ![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
-| **CI/CD**           | ![Travis CI](https://img.shields.io/badge/-Travis_CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white) ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white) | -->
 
