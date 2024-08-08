@@ -13,7 +13,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DulangaDasanayake&theme=algolia&show_icons=true"/>&nbsp&nbsp
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulangaDasanayake&hide=TeX,html&hide_progress=true&layout=compact&langs_count=6&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulangaDasanayake&hide=TeX,html,css,scss,blade&hide_progress=true&layout=compact&langs_count=6&theme=algolia"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br>
 <br>
 
