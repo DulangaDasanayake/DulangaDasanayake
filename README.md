@@ -3,7 +3,7 @@
 <!--   <p><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200"></p> --> <!-- silver guy -->
 <!--   <p><img src="https://octodex.github.com/images/gangnamtocat.png" width="200"></p> --> <!-- gangnam style guy -->
 <!--   <p><img src="https://octodex.github.com/images/oktobercat.png" width="200"></p> --> <!-- green beer guy -->
-       <p><img src="https://github.com/DulangaDasanayake/DulangaDasanayake/main/ironcat.png" width="200"></p> <!-- iron man guy -->
+       <p><img src="ironcat.png" width="200"></p> <!-- iron man guy -->
   
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
