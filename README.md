@@ -1,6 +1,7 @@
 <div align="center">
 <!--   <p><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"></p> -->
-  <p><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200"></p>
+<!--   <p><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200"></p> -->
+  <p><img src="https://octodex.github.com/images/gangnamtocat.png" width="200"></p>
   
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
