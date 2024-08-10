@@ -1,8 +1,9 @@
 <div align="center">
-<!--   <p><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"></p> -->
-<!--   <p><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200"></p> -->
-<!--   <p><img src="https://octodex.github.com/images/gangnamtocat.png" width="200"></p> -->
-  <p><img src="https://octodex.github.com/images/oktobercat.png" width="200"></p>
+<!--   <p><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"></p> --> <!-- gold guy -->
+<!--   <p><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200"></p> --> <!-- silver guy -->
+<!--   <p><img src="https://octodex.github.com/images/gangnamtocat.png" width="200"></p> --> <!-- gangnam style guy -->
+<!--   <p><img src="https://octodex.github.com/images/oktobercat.png" width="200"></p> --> <!-- green beer guy -->
+       <p><img src="https://github.com/DulangaDasanayake/DulangaDasanayake/images/ironman.png" width="200"></p> <!-- iron man guy -->
   
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
