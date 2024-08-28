@@ -1,5 +1,5 @@
 <div align="center">
-<p><img src="assets/catpool.png" width="100"><img src="assets/catverine.png" width="200"><img src="assets/catpool.png" width="200"><img src="assets/catverine.png" width="100"></p>
+<p><img src="assets/catverine.png" width="200"></p>
   
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
