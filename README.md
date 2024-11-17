@@ -3,12 +3,10 @@
   
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
-  ### [I'm Gonna Hunt you down & Eat you Alive! - <i>Animals</i>](https://github.com/DulangaDasanayake)
+  ### [Hello! I am Dulanga](https://github.com/DulangaDasanayake)
 </div>
 <p>
-<!--Bonjour! I'm Dulanga, a passionate tech enthusiast. With a strong background in IT and a love for coding, I enjoy creating innovative solutions and exploring new technologies. My repositories showcase projects ranging from web development to system automation, reflecting my commitment to continuous learning and professional growth in the IT industry. I'm always open to collaboration and eager to contribute to exciting projects. Let's build something amazing together!-->
-
-你好！我是杜兰加，一位充满热情的科技爱好者。凭借深厚的 信息技术 背景和对编码的热爱，我喜欢创建创新的解决方案和探索新技术。我的存储库展示了从 网络 开发到系统自动化的各种项目，反映了我对 信息技术 行业持续学习和专业成长的承诺。我始终对合作持开放态度，并渴望为激动人心的项目做出贡献。让我们一起创造一些令人惊奇的东西！
+A passionate tech enthusiast. With a strong background in IT and a love for coding, I enjoy creating innovative solutions and exploring new technologies. My repositories showcase projects ranging from web development to system automation, reflecting my commitment to continuous learning and professional growth in the IT industry. I'm always open to collaboration and eager to contribute to exciting projects. Let's build something amazing together!
 </p>
 
 <div align="center">
