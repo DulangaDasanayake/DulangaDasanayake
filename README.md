@@ -1,5 +1,5 @@
 <div align="center">
-<p><img src="assets/daftpunktocat-thomas.gif" width="200"></p>
+<p><img src="assets/daftpunktocat-guy.gif" width="200"></p>
   
   <img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   
@@ -7,6 +7,7 @@
 
 <p>
 A passionate tech enthusiast. With a strong background in IT and a love for electronics, I enjoy creating innovative solutions and exploring new technologies. My repositorie showcase projects ranging from web development to system automation, reflecting my commitment to continuous learning and professional growth in the IT & Electronics industry. I'm always open to collaboration and eager to contribute to exciting projects. Let's build something amazing together!
+  
 </p>
 
 <div align="center">
