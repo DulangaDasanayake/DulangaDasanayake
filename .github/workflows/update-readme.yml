@@ -1,0 +1,29 @@
+name: Update README Image
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC. Adjust for weekly with '0 0 * * 0'.
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with a new image
+        run: |
+          IMAGES=("catpool.png" "catverine.png" "daftpunktocat-guy.gif" "daftpunktocat-thomas.gif" "hubot.png" "ironcat.png" "oktobercat.png")
+          RANDOM_IMAGE=${IMAGES[$RANDOM % ${#IMAGES[@]}]}
+          echo "Selected image: $RANDOM_IMAGE"
+
+          sed -i "s|assets/.*|assets/$RANDOM_IMAGE\" width=\"200\">|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated README with a new image"
+          git push
