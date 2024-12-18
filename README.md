@@ -9,7 +9,6 @@
 A passionate tech enthusiast. With a strong background in IT and a love for electronics, I enjoy creating innovative solutions and exploring new technologies. My repositorie showcase projects ranging from web development to system automation, reflecting my commitment to continuous learning and professional growth in the IT & Electronics industry. I'm always open to collaboration and eager to contribute to exciting projects. Let's build something amazing together!
 </p>
 
-<!--
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
