@@ -18,7 +18,7 @@ jobs:
           RANDOM_IMAGE=${IMAGES[$RANDOM % ${#IMAGES[@]}]}
           echo "Selected image: $RANDOM_IMAGE"
 
-          sed -i "s|assets/.*|assets/$RANDOM_IMAGE\" width=\"200\">|g" README.md
+          sed -i "s|assets/.*|assets/$RANDOM_IMAGE\" width=\"200\"><br>|g" README.md
 
       - name: Commit changes
         run: |
