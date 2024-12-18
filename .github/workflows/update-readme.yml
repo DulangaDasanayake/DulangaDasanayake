@@ -2,7 +2,7 @@ name: Update README Image
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Runs daily at midnight UTC. Adjust for weekly with '0 0 * * 0'.
+    - cron: '0 8 * * *' # Runs daily at midnight UTC. Adjust for weekly with '0 0 * * 0'.
 
 jobs:
   update-readme:
