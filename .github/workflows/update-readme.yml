@@ -2,7 +2,7 @@ name: Update README Image
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Runs daily at midnight UTC. Adjust for weekly with '0 0 * * 0'.
+    - cron: '0 0 * * *' # Runs daily at midnight UTC. Adjust for weekly with '0 0 * * 0'.
 
 jobs:
   update-readme:
@@ -18,7 +18,7 @@ jobs:
           RANDOM_IMAGE=${IMAGES[$RANDOM % ${#IMAGES[@]}]}
           echo "Selected image: $RANDOM_IMAGE"
 
-          sed -i "s|assets/.*|assets/$RANDOM_IMAGE\" width=\"200\"><br>|g" README.md
+          sed -i "s|assets/.*|assets/$RANDOM_IMAGE\" width=\"200\">|g" README.md
 
       - name: Commit changes
         run: |
