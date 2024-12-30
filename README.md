@@ -16,7 +16,7 @@ A passionate tech enthusiast. With a strong background in IT and a love for elec
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30">
 
 
-  30NitesOfCode:
+  <!--30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@dulanga/30-nites-of-code)  
   ![@dulanga #30NitesOfCode](https://www.codedex.io/api/petStatus?user=dulanga)
 
