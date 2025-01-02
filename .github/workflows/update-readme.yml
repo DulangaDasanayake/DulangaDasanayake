@@ -14,7 +14,7 @@ jobs:
 
       - name: Update README with a new image
         run: |
-          IMAGES=("catpool.png" "catverine.png" "daftpunktocat-guy.gif" "daftpunktocat-thomas.gif" "hubot.png" "ironcat.png" "oktobercat.png")
+          IMAGES=("catpool.png" "catverine.png" "daftpunktocat-guy.gif" "git-couple.png" "daftpunktocat-thomas.gif" "hubot.png" "minecraft-couple.png" "ironcat.png" "oktobercat.png")
           RANDOM_IMAGE=${IMAGES[$RANDOM % ${#IMAGES[@]}]}
           echo "Selected image: $RANDOM_IMAGE"
 
