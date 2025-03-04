@@ -3,10 +3,10 @@
 <br><img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
 
-### [Hello! I am Dulanga](https://github.com/DulangaDasanayake)
+### [ආයුබෝවන්!! ](https://github.com/DulangaDasanayake)
 
 <p>
-A passionate tech enthusiast. With a strong background in IT and a love for electronics, I enjoy creating innovative solutions and exploring new technologies. My repositorie showcase projects ranging from web development to system automation, reflecting my commitment to continuous learning and professional growth in the IT & Electronics industry. I'm always open to collaboration and eager to contribute to exciting projects. Let's build something amazing together!
+Driven by curiosity and a passion for innovation, I specialize in crafting impactful solutions that bridge technology and creativity. Always learning, always building, and excited to collaborate on the next big idea.
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
