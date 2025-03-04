@@ -3,7 +3,7 @@
 <br><img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
 
-### [ආයුබෝවන්!! ](https://github.com/DulangaDasanayake)
+### [Āyubōvan!! ](https://github.com/DulangaDasanayake)
 
 <p>
 Driven by curiosity and a passion for innovation, I specialize in crafting impactful solutions that bridge technology and creativity. Always learning, always building, and excited to collaborate on the next big idea.
