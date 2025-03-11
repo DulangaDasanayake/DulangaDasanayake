@@ -1,4 +1,11 @@
-<div align="center">
+Hey, I'm Dulanga!
+
+- Passionate about web development, learning, and real-time data processing.
+- IT student at Sri Lanka Institute of Advanced Technological Education(SLIATE).
+- Experienced with Web development with Mern stack.
+- Reach out: [Bio Link](https://bio.link/iamdulanga)
+
+<!-- <div align="center">
 <img src="assets/ironcat.png" width="200">
 <br><img src="https://komarev.com/ghpvc/?username=DulangaDasanayake&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
@@ -16,7 +23,7 @@ Driven by curiosity and a passion for innovation, I specialize in crafting impac
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30">
 
 
-  <!--30NitesOfCode:
+  z30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@dulanga/30-nites-of-code)  
   ![@dulanga #30NitesOfCode](https://www.codedex.io/api/petStatus?user=dulanga)
 
