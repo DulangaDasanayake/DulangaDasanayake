@@ -1,8 +1,8 @@
-Hey, I'm Dulanga!
+Howdy, i'm Dulanga!
 
-- Passionate about web development, learning, and real-time data processing.
-- IT student at Sri Lanka Institute of Advanced Technological Education(SLIATE).
-- Experienced with Web development with Mern stack.
+- Undergraduate at Sri Lanka Institute of Advanced Technological Education
+- Passionate about Web designing, Software development
+- Experienced with Java, Javascript & React
 - Reach out: [Bio Link](https://bio.link/iamdulanga)
 
 <!-- <div align="center">
