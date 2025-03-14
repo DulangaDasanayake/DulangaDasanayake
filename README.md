@@ -3,6 +3,7 @@ Howdy, i'm Dulanga!
 - Undergraduate at Sri Lanka Institute of Advanced Technological Education
 - Passionate about Web designing, Software development
 - Experienced in Python & Javascript
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
 <!-- the old redme content -->
 
 <!--
