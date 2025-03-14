@@ -2,7 +2,7 @@ Howdy, i'm Dulanga!
 
 - Undergraduate at Sri Lanka Institute of Advanced Technological Education
 - Passionate about Web designing, Software development
-- Experienced with Java, Javascript & React
+- Experienced in Python & Javascript
 <!-- the old redme content -->
 
 <!--
