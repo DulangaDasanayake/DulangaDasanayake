@@ -1,9 +1,15 @@
-Howdy, i'm Dulanga!
+```json
+{
+  "name": "Dulanga Dasanayake",
+  "education": "Undergraduate at Sri Lanka Institute of Advanced Technological Education",
+  "skills": [
+    "Web design and development",
+    "Software development",
+    "Currently mastering Python and JavaScript"
+  ]
+}
+```
 
-- Undergraduate at Sri Lanka Institute of Advanced Technological Education
-- Passionate about Web designing, Software development
-- Experienced in Python & Javascript
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
 <!-- the old redme content -->
 
 <!--
