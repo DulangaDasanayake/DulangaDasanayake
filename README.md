@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/devops.avif" width="650">
+  <img src="assets/alone.png" width="1000">
 </div>
 
 ```json
