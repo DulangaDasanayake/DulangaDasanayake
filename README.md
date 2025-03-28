@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/devops.avif" width="650">
+</div>
+
 ```json
 {
   "name": "Dulanga Dasanayake",
