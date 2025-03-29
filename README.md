@@ -1,11 +1,10 @@
 ```json
 {
   "name": "Dulanga Dasanayake",
-  "education": "Undergraduate at Sri Lanka Institute of Advanced Technological Education",
+  "education": "HNDIT Undergraduate",
   "skills": [
-    "Web design and development",
-    "Software development",
-    "Currently mastering Python and JavaScript"
+    "UI Designing with Figma",
+    "Web Development with MERN Stack"
   ]
 }
 ```
